@@ -7,6 +7,8 @@ public class FirstSession {
     private static int a=5; //static variable
     public static void main(String[] args) {
 
+        System.out.println("Hello");
+
         byte b = 5; //1 byte
         short c = 2; //2 byte
         int i1 = 3332; //4 byte
